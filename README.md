@@ -19,9 +19,3 @@ I'm currently working remotely on proprietary software, focusing on modern web a
 - **Learning:** Always exploring new ways to solve complex problems.
 - **Hobby:** Writing low-level **C projects** and deep-diving into **TypeScript** patterns.
 - **Experience:** My background spans from agile **Startups** to long-term **Enterprise Business** logic.
-
-### 🌍 Languages & Fun Facts
-I have a passion for languages and cultures!
-* 🗣️ **Speaking:** Spanish (Native), English, some Japanese, Italian, and Polish.
-* 📚 **Learning:** Currently studying Chinese.
-* 🐹 **Companions:** Proud owner of two Guinea Pigs.
